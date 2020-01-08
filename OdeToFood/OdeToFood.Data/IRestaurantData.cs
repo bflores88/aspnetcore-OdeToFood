@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using OdeToFood.core;
+using OdeToFood.Core;
 
 namespace OdeToFood.Data
 {

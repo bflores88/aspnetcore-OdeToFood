@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OdeToFood.core\OdeToFood.core.csproj" />
+    <ProjectReference Include="..\OdeToFood.core\OdeToFood.Core.csproj" />
   </ItemGroup>
 
 </Project>

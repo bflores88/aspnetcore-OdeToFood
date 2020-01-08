@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
-using OdeToFood.core;
+using OdeToFood.Core;
 
 namespace OdeToFood.Data
 {
